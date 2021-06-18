@@ -1,0 +1,21 @@
+#contact{
+    padding-top: 5%;
+   text-align:center;
+  margin-top:5%;
+  margin-bottom: 10%;
+  background:url("../images/slide2.jpg") ;
+  color:azure;
+  height:500px;
+  opacity: 0.8;
+}
+#contact input{
+   border-radius: 10px;
+   width:50%;
+   
+}
+#contact label{
+   font-weight: bold;
+}
+#contact input:hover{
+   box-shadow:5px 5px 5px 0px rgb(203, 212, 209);
+}

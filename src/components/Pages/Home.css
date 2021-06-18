@@ -1,0 +1,51 @@
+.w-100 {
+     width: 70% !important;
+     height: 60vh;
+     margin:auto;
+     padding: 10px 0px;
+   }
+   .foods{
+    margin:auto;
+     padding:20px;
+   }
+  #items{
+    width:1000px;
+    height:auto;
+    margin: 20px;
+    background-color: rgb(195, 207, 207);
+    box-shadow: 5px 5px 5px 5px rgb(241, 223, 231);
+    
+  }
+   #content{
+     background-color:rgb(202, 241, 241);
+     margin-top:30px;
+     box-shadow: 5px 5px 5px 5px thistle;
+   }
+   #items > img{
+         border-radius: 10px;
+         width:600px;
+         height:300px;
+         margin: 20px 0px;
+   }
+   .about{
+     margin-top: 10px;
+    background-image: url("../images/aboutbg.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+}
+.aboutBanner{
+    width:800px;
+    height:60vh;
+    text-align: center;
+    color: honeydew;
+    margin:auto;
+    padding-top:10%;
+    
+
+    
+}
+.aboutBanner > h1,h3{
+  font-family: Dancing Script;
+}

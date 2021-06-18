@@ -1,0 +1,19 @@
+.aboutUs {
+    
+    text-align: center;
+    margin: auto;
+}
+.aboutUs >img{
+    height:300px;
+}
+.list{
+    list-style-type: disc;
+}
+#text{
+    text-align: justify;
+    margin-bottom:40px;
+
+}
+h1,h2,h3,h4{
+    font-family: dancing scripts;
+}
